@@ -1,0 +1,15 @@
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.exe
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.deps.json
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.runtimeconfig.json
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.dll
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\bin\Debug\net6.0\ref\Genericos.dll
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.pdb
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.AssemblyReference.cache
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfo.cs
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.dll
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\ref\Genericos.dll
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.pdb
+C:\Users\bruno.welausen\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.genruntimeconfig.cache
